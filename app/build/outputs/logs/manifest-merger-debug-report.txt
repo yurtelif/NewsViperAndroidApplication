@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/1b60793406724a478f15f4b69a2f7129/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/b4cee036b62a77763a68e9b8979793f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/91e77b52b3142e15658d69744e8cc8a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3df9e8dcc1efa1cc749daf4ae3650ae1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22831c618bd531d00baf6f22ab7aed60/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/42e7dda5801fd888b432c2f112f527a6/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bf25df4d7a41b8b939de2ac5036d638a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e851132f3da0842f5a624f552c170eb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064162a9becc0550104a860973117817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22f0c322321074e1d0f8a61005ccb839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/27deaf18630997254c6231fd78b54153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/eb78c4ea5928f122191b84f6fc7d861d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3f4cecdd279aa0b86fec09e1d199ca71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a7f66730d618bee6f119df511f0a97d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bd6adde3769df92a1a7cc711fe5e6e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/328973649fb2c5377981fd0fdde9eaca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a5e54e7bc3545a0a9430f2ac0efd0901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e0fea3644ec6bf67102686fc44fd4c62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/299dd3c603a5eecdaa9fc143e13be2bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/340c8bd4f1832a9293a83c6fceb5af74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/fe639b9868c09b3fe2dcc292cd679e75/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4a44daa2891e3a1cbe31590fc85e0279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/d6ad5c52dbb605309b99aaa7d22d61c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/99df7651c90a85ed0f870564d1279f36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064e607f150ed03f206b5f7b26659b34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/5dad291935f5efd2189dd3a29fc9bd13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8c810efdb0512353990eea1ff719bd46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/9d0d37a1c941ef28f5d6565fade287dd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4deebb7b4097fa70abfb4e8f0b6c65ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/c6bb97eabf9d82e186d97019120aba24/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3df9e8dcc1efa1cc749daf4ae3650ae1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3df9e8dcc1efa1cc749daf4ae3650ae1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/fe639b9868c09b3fe2dcc292cd679e75/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/fe639b9868c09b3fe2dcc292cd679e75/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:8:9-42
+activity#com.yrtelf.newsviper.feature.news.NewsActivity
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:15:9-72
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:15:19-60
+activity#com.yrtelf.newsviper.MainActivity
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:16:9-50
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:16:19-47
+activity#com.yrtelf.newsviper.feature.source.SourcesActivity
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:17:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/1b60793406724a478f15f4b69a2f7129/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/1b60793406724a478f15f4b69a2f7129/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/b4cee036b62a77763a68e9b8979793f9/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/b4cee036b62a77763a68e9b8979793f9/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/91e77b52b3142e15658d69744e8cc8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/91e77b52b3142e15658d69744e8cc8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3df9e8dcc1efa1cc749daf4ae3650ae1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3df9e8dcc1efa1cc749daf4ae3650ae1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22831c618bd531d00baf6f22ab7aed60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22831c618bd531d00baf6f22ab7aed60/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/42e7dda5801fd888b432c2f112f527a6/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/42e7dda5801fd888b432c2f112f527a6/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bf25df4d7a41b8b939de2ac5036d638a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bf25df4d7a41b8b939de2ac5036d638a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e851132f3da0842f5a624f552c170eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e851132f3da0842f5a624f552c170eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064162a9becc0550104a860973117817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064162a9becc0550104a860973117817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22f0c322321074e1d0f8a61005ccb839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/22f0c322321074e1d0f8a61005ccb839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/27deaf18630997254c6231fd78b54153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/27deaf18630997254c6231fd78b54153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/eb78c4ea5928f122191b84f6fc7d861d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/eb78c4ea5928f122191b84f6fc7d861d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3f4cecdd279aa0b86fec09e1d199ca71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/3f4cecdd279aa0b86fec09e1d199ca71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a7f66730d618bee6f119df511f0a97d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a7f66730d618bee6f119df511f0a97d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bd6adde3769df92a1a7cc711fe5e6e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/bd6adde3769df92a1a7cc711fe5e6e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/328973649fb2c5377981fd0fdde9eaca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/328973649fb2c5377981fd0fdde9eaca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a5e54e7bc3545a0a9430f2ac0efd0901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/a5e54e7bc3545a0a9430f2ac0efd0901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e0fea3644ec6bf67102686fc44fd4c62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/e0fea3644ec6bf67102686fc44fd4c62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/299dd3c603a5eecdaa9fc143e13be2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/299dd3c603a5eecdaa9fc143e13be2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8e110131832514f3a42a06b251730046/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/340c8bd4f1832a9293a83c6fceb5af74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/340c8bd4f1832a9293a83c6fceb5af74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/fe639b9868c09b3fe2dcc292cd679e75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/fe639b9868c09b3fe2dcc292cd679e75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4a44daa2891e3a1cbe31590fc85e0279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4a44daa2891e3a1cbe31590fc85e0279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/d6ad5c52dbb605309b99aaa7d22d61c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/d6ad5c52dbb605309b99aaa7d22d61c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/99df7651c90a85ed0f870564d1279f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/99df7651c90a85ed0f870564d1279f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064e607f150ed03f206b5f7b26659b34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/064e607f150ed03f206b5f7b26659b34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/5dad291935f5efd2189dd3a29fc9bd13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/5dad291935f5efd2189dd3a29fc9bd13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8c810efdb0512353990eea1ff719bd46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/8c810efdb0512353990eea1ff719bd46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/9d0d37a1c941ef28f5d6565fade287dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/9d0d37a1c941ef28f5d6565fade287dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4deebb7b4097fa70abfb4e8f0b6c65ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/4deebb7b4097fa70abfb4e8f0b6c65ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/c6bb97eabf9d82e186d97019120aba24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/elifyurt/.gradle/caches/transforms-2/files-2.1/c6bb97eabf9d82e186d97019120aba24/AndroidManifest.xml:20:5-44
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifyurt/Desktop/NewsViper/app/src/main/AndroidManifest.xml

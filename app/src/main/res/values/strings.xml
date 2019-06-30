@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsViper</string>
+
+
+    <string name="request_error">Request Error</string>
+    <string name="add_list">Okuma listeme ekle</string>
+    <string name="already_in_list">Okuma listemden çıkar</string>
+    <string name="sources">Kaynaklar</string>
+    <string name="search_hint">Haber ara</string>
+</resources>
